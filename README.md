@@ -116,7 +116,9 @@ Normalize our dataset.
 
 <H3>Program:</H3> 
 
-Insert your code here
+```python
+hi
+```
 
 <H3>Output:</H3>
 
